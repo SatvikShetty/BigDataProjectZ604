@@ -6,7 +6,7 @@ Dataset used : Netflix dataset and IMDb dataset.
 
 Netflix Team 1 :
 
-Satvik Shetty (skshetty@indina.edu)
+Satvik Shetty (skshetty@indiana.edu)
 Rohan Ingale (ringale@indiana.edu)
 Saurav Chakraborty (sauchakr@indiana.edu)
 Apoorva Garlanka (garlanka@indiana.edu)
